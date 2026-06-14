@@ -50,7 +50,7 @@ To simulate an enterprise data warehouse environment, the flat analytical table 
 ---
 
 ## 📈 Executive Dashboard Preview
-*(A Metabase BI dashboard translating these SQL findings into a live, interactive format will be linked here shortly.)*
+*![Executive Dashboard](Metabase%20Dashboard.png*
 
 ---
 *If you are a recruiter or hiring manager, please feel free to review the attached `.sql` files in this repository to examine the query structures, window functions, and aggregation logic used to generate these insights.*
