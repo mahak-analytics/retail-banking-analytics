@@ -1,5 +1,5 @@
 # retail-banking-analytics
-End-to-end SQL data pipeline and BI dashboard optimizing B2C term deposit conversions.
+End-to-end SQL data pipeline and Metabase dashboard optimizing B2C term deposit conversions.
 # Retail Banking Analytics: Optimizing Campaign Conversions & Macroeconomic Impact
 
 ## 📌 Executive Summary
