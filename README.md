@@ -49,7 +49,7 @@ To simulate an enterprise data warehouse environment, the flat analytical table 
 
 ---
 
-## 📈 Executive Dashboard Preview
+## 📈 Executive Dashboard Preview 
 ![Executive Dashboard](Metabase%20Dashboard).png
 
 ---
